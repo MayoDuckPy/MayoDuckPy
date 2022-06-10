@@ -1,8 +1,9 @@
-### Hello, I'm Michael! 👋
+# I Like Ducks!
 
----
+Really, there's not much else to say.
 
+<br>
 
-- 🏫 - Currently a third-year computing science undergraduate at the University of Alberta.
-
-- 📫 - You can reach me at mjhuang@ualberta.ca.
+| Email | mjhuang@ualberta.ca |
+| :--- | :---: |
+| **Projects** | (_eventually_) |
