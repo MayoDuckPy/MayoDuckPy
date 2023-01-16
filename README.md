@@ -1,9 +1,9 @@
-# I Like Ducks!
+# Welcome!
 
-Really, there's not much else to say.
+I'm Michael, you can find my info below.
 
 <br>
 
-| Email | mjhuang@ualberta.ca |
-| :--- | :---: |
-| **Projects** | (_eventually_) |
+| Email                | mjhuang@ualberta.ca                                          |
+| :---                 | :---:                                                        |
+| **Current Projects** | [ipfs-mfs-fuse](https://github.com/MayoDuckPy/ipfs-mfs-fuse) |
