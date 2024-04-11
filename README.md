@@ -1,9 +1,23 @@
-# Welcome!
+# Hello, I'm Michael!
 
-My name is Michael. I mainly program in Rust and focus on web development though I'll take up anything when a good idea comes to mind.
+I enjoy building fast and secure web applications using Rust and find working with new technologies especially thrilling.
+All my work is built and tested using Nix and NixOS.
 
 <br>
 
 | Email                | mjhuang@ualberta.ca                                          |
 | :---                 | :---:                                                        |
-| **Current Projects** | [Web Desktops](https://github.com/MayoDuckPy/web-desktops) \| [ipfs-mfs-fuse](https://github.com/MayoDuckPy/ipfs-mfs-fuse) |
+| **Current Projects** | [Lazy Notes](https://codeberg.org/MayoDuckPie/lazy-notes/)   |
+
+<br>
+
+**Technologies I'm currently working with:**
+
+- Rust
+- Leptos
+- SurrealDB
+- Nix
+- Podman/Docker
+- HTML
+- CSS
+- JS
